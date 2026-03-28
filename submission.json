@@ -1,0 +1,7 @@
+{
+  "prompt": "A massive pair of human lungs formed by a polluted city skyline, filled with thick black smoke, a small child standing inside the lungs, surrounded by toxic air, breathing the smoke, buildings merging into lung structure, dark and haunting atmosphere, cinematic lighting, ultra realistic, strong emotional impact, no text, no labels, no charts",
+  "model": "Gemini 3 Pro",
+  "dataset_name": "Delhi Air Quality Dataset",
+  "dataset_url": "https://www.kaggle.com/datasets/kunshbhatia/delhi-air-quality-dataset",
+  "insight": "People in Delhi are forced to breathe dangerously polluted air on most days"
+}
